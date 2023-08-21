@@ -3,7 +3,7 @@ import { Button, Header } from "ui";
 export default function Page() {
   return (
     <>
-      <Header text="Web new" />
+      <Header text="Web new change" />
       <Button />
     </>
   );
